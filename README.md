@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akilah Ismail. Previously an Analytical Chemist developing drug product 👩‍🔬💊. Currently pursuing a masters in MSc Analytics and Business Intelligence.
-- 🧑‍🔬 Keen in transitioning into data analytics, leveraging my analytical experiences into other fields beyond chemistry. 
-- ⚒️ This profile is to document my projects, applying tools that I'm currently learning such as Python, SQL, PowerBI, Tableau.
+- 🧑‍🔬 Trying to leverage my analytical experiences into other fields beyond chemistry. 
+- ⚒️ This profile is to document my learning process, applying tools such as Python, SQL, PowerBI, Tableau into projects.
 
 
 
